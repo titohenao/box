@@ -1,0 +1,12 @@
+<rss xmlns:media="https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16" version="2.0">
+<channel>
+<title>GOES16</title>
+<image>
+<url>https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/5000x3000.jpg</url>
+<title>GOES16</title>
+<link>https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/5000x3000.jpg/</link>
+</image>
+<description>GOES16</description>
+<link>https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/5000x3000.jpg/</link>
+</channel>
+</rss>
